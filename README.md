@@ -88,7 +88,7 @@ for all entities
 }
 ```
 
-#### /feeds/{id}/bits/{id}/labels
+#### /labels
 
     GET POST /labels
     GET PUT DELETE /labels/{id}
