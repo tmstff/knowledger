@@ -5,6 +5,10 @@ As a first step, it is possible to collect bits of interesting content in form o
 which can later be used to consume them piece by piece (e.g. a feed for podcasts, one for articles etc.).
 Labels can be used for further structuring.
 
+## Decisions
+
+Technology and design decisions can be found in [the decision log](./decision_log).
+
 ## Data Model
 
 ```mermaid
