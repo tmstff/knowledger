@@ -5,9 +5,9 @@ import (
 	"strings"
 )
 
-func StringOf(body io.ReadCloser) (string, error) {
+func StringOf(rc io.ReadCloser) (string, error) {
 	buf := new(strings.Builder)
-	_, err := io.Copy(buf, body)
+	_, err := io.Copy(buf, rc)
 
 	if err != nil {
 		return "", err
