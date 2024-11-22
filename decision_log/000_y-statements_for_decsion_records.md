@@ -8,7 +8,7 @@
 
 ## Decision
 
-* In the context of the knowledger project,
+* In the context of the [knowledger project](https://github.com/tmstff/knowledger),
 * facing the need to document decisions to be able to understand them later on,
 * we decided for [Y-Statements](https://medium.com/olzzio/y-statements-10eb07b5a177) stored in the
   [knowledger GitHub project](https://github.com/tmstff/knowledger)

@@ -8,7 +8,7 @@
 
 ## Decision
 
-* In the context of the knowledger project,
+* In the context of the [knowledger project](https://github.com/tmstff/knowledger),
 * facing the need to use a programming language to write an API backend,
 * we decided for [GoLang](https://go.dev/)
 * and against a lot of other popular languages like Java, Kotlin, Python, Type Script, Rust etc.,

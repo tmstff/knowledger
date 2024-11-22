@@ -40,10 +40,6 @@ classDiagram
 
 ## API
 
-### Ideas:
-
-check for easy generation of API
-
 ### Endpoints
 
 #### common fields
@@ -107,7 +103,7 @@ for all entities
 
 ### Ordering
 
-Not available in intial version, ordering is done by timestamp.
+Not available in initial version, ordering is done by timestamp.
 
 Thoughts:
 - order is read-only

@@ -8,7 +8,7 @@
 
 ## Decision
 
-* In the context of the knowledger project backend development,
+* In the context of the [knowledger project](https://github.com/tmstff/knowledger) backend development,
 * facing the need to write unit tests,
 * we decided for the [go testing package](https://pkg.go.dev/testing) with [testify](https://github.com/stretchr/testify) assertions
 * and against Ginkgo / Gomega and  GoConvey,
