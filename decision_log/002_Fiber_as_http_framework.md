@@ -8,7 +8,7 @@
 
 ## Decision
 
-* In the context of knowledger project,
+* In the context of the knowledger project,
 * facing the need to provide a RESTful API for the backend,
 * we decided for [Fiber](https://github.com/gofiber/fiber) 
 * and against other popular frameworks like [gin](https://github.com/gin-gonic/gin) and [echo](https://github.com/labstack/echo),
