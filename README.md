@@ -63,7 +63,7 @@ for all entities
 
 ```json 
 {
-  "url": "my feed name"
+  "name": "my feed name"
 }
 ```
 
